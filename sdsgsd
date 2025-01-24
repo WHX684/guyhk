@@ -1,5 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WHX684/guyhk/main/"..
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WHX684/guyhk/main/sdsgsd/"..
 (({
-    [4618049391] = "lmt",
-    [6516141723] = "SFHUS"
-})[game.GameId] or "WHX684")..".lua"))()
+    [6516141723] = "SFHUS",
+    [4618049391] = "lmt"
+})[game.GameId] or "Universal")..".lua"))()
